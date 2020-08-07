@@ -1,6 +1,6 @@
-# Preferred Technologies
+# Awesome Technologies
 
-Here are some of the technologies that I love/use =)
+Here are some awesome technologies that I love/use =)
 
 ## Productivity Tools
 - [Alacritty](https://github.com/alacritty/alacritty) - Alacritty is the fastest terminal emulator in existence.
