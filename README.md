@@ -20,4 +20,4 @@ Here are some awesome technologies that I love/use =)
 
 ### Carousel
 - [react-carousel](https://github.com/brainhubeu/react-carousel) - A pure extendable React carousel.
-- [Pure React Carousel](https://github.com/express-labs/pure-react-carousel) - A highly impartial suite of components to create a responsive and aria compliant carousel
+- [Pure React Carousel](https://github.com/express-labs/pure-react-carousel) - A highly impartial suite of components to create a responsive and aria compliant carousel.
