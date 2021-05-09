@@ -4,6 +4,7 @@ Here are some awesome technologies that I love/use =)
 
 ## Productivity Tools
 - [Alacritty](https://github.com/alacritty/alacritty) - Alacritty is the fastest terminal emulator in existence.
+- [atuin](https://github.com/ellie/atuin) - A magical shell history.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with syntax highlighting and Git integration. 
 - [exa](https://github.com/ogham/exa) - A replacement for ls written in Rust.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
